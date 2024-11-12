@@ -2,14 +2,17 @@
   "name": "ancient-recipes-api",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts"
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc && tsc-alias"
   },
   "dependencies": {
     "@hono/node-server": "^1.13.6",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.1",
     "hono": "^4.6.9",
-    "pg": "^8.13.1"
+    "pg": "^8.13.1",
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.6.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
