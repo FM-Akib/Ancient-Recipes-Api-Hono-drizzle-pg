@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Honey-Glazed Dates",
+      "region": "Ancient Egypt",
+      "era": "Bronze Age",
+      "ingredients": ["dates", "honey", "spices"],
+      "instructions": "Mix honey and dates, then glaze with spices. Roast lightly over a fire.",
+      "historicalBackground": "This dessert was commonly enjoyed in the Bronze Age in Ancient Egypt.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731393953/p3tgu6gswdxyrhw4zsla.jpg"
+    },
+    {
+      "name": "Cabbage and Barley Stew",
+      "region": "Ancient Rome",
+      "era": "Roman Empire",
+      "ingredients": ["cabbage", "barley", "olive oil", "onion", "garlic", "salt"],
+      "instructions": "Boil cabbage and barley together, adding olive oil, onion, and garlic for flavor.",
+      "historicalBackground": "Cabbage and barley were common in Roman diets, often cooked together for warmth and nutrition.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731394098/emrvjrdefrkcdgoczzdx.jpg"
+    },
+    {
+      "name": "Spiced Lentil Stew",
+      "region": "Mesopotamia",
+      "era": "Iron Age",
+      "ingredients": ["lentils", "onions", "garlic", "cumin"],
+      "instructions": "Cook lentils with onions, garlic, and cumin until tender.",
+      "historicalBackground": "A staple in Mesopotamia, known for being nutritious and flavorful.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731394220/s7mw3cmlkbrco8sojjdp.jpg"
+    },
+    {
+      "name": "Roman Cheesecake (Libum)",
+      "region": "Ancient Rome",
+      "era": "Roman Republic",
+      "ingredients": ["ricotta cheese", "flour", "honey", "bay leaves"],
+      "instructions": "Mix ricotta with flour, form small cakes, drizzle honey, and bake on bay leaves.",
+      "historicalBackground": "Served as an offering to the gods in Roman religious rituals.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731394321/wjoq8ldnmxgz6uemtgqs.jpg"
+    },
+    {
+      "name": "Nettle Soup",
+      "region": "Ancient Ireland",
+      "era": "Bronze Age",
+      "ingredients": ["nettles", "water", "barley", "salt"],
+      "instructions": "Boil nettles in water with barley and salt until soft.",
+      "historicalBackground": "Nettles were widely used for their high nutritional value.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731394550/zs7qzlf6eazasve4dnho.png"
+    },
+    {
+      "name": "Flatbread with Herbs",
+      "region": "Ancient Greece",
+      "era": "Classical Greece",
+      "ingredients": ["flour", "water", "olive oil", "herbs"],
+      "instructions": "Mix ingredients, form a dough, and bake on a hot stone.",
+      "historicalBackground": "Similar to modern pita; enjoyed as a staple in Greek meals.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731394737/fzez9kr4eie9dot3umum.png"
+    },
+    {
+      "name": "Sesame and Honey Sweet (Pasteli)",
+      "region": "Ancient Greece",
+      "era": "Classical Greece",
+      "ingredients": ["sesame seeds", "honey"],
+      "instructions": "Mix sesame seeds and honey, then form into bars.",
+      "historicalBackground": "Known as 'pasteli,' it’s one of the earliest known sweets.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731395643/p8qavw8ivxrqzxukx0qb.png"
+    },
+    {
+      "name": "Fish Sauce (Garum)",
+      "region": "Ancient Rome",
+      "era": "Roman Empire",
+      "ingredients": ["fermented fish", "salt"],
+      "instructions": "Layer fish and salt, then ferment for several months.",
+      "historicalBackground": "Used widely in Roman cuisine as a flavor enhancer.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731395717/upqgj78hojmc4g6gy8xx.png"
+    },
+    {
+      "name": "Ancient Egyptian Bread",
+      "region": "Ancient Egypt",
+      "era": "New Kingdom",
+      "ingredients": ["emmer wheat", "water", "yeast", "salt"],
+      "instructions": "Mix ingredients into dough, allow to rise, and bake.",
+      "historicalBackground": "Bread was a daily staple in the Egyptian diet.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731395824/c6hzjar9ngvplulotq7i.png"
+    },
+    {
+      "name": "Ancient Indian Sweets (Laddu)",
+      "region": "Ancient India",
+      "era": "Vedic Period",
+      "ingredients": ["chickpea flour", "ghee", "sugar"],
+      "instructions": "Roast flour in ghee, add sugar, and form into balls.",
+      "historicalBackground": "Laddus were commonly made during festivals.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731395898/ds4krrsqamm22yqiglkl.png"
+    },
+    {
+      "name": "Roasted Dormice",
+      "region": "Ancient Rome",
+      "era": "Roman Empire",
+      "ingredients": ["dormice", "spices", "honey", "wine"],
+      "instructions": "Season dormice with spices, drizzle honey and wine, then roast.",
+      "historicalBackground": "Considered a delicacy in ancient Rome.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731414939/ounhovld4bpijq7nbbx2.png"
+    },
+    {
+      "name": "Mesopotamian Bread with Date Syrup",
+      "region": "Mesopotamia",
+      "era": "Bronze Age",
+      "ingredients": ["barley flour", "water", "date syrup"],
+      "instructions": "Mix flour with water, bake, and serve with date syrup.",
+      "historicalBackground": "Bread and dates were central to Mesopotamian diets.",
+      "imgUrl": "https://res.cloudinary.com/dzghnopbp/image/upload/v1731415052/rijsqrzax3whyywronkj.png"
+    }
+  ]
+  
