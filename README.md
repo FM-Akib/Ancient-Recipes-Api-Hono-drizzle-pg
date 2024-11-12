@@ -20,10 +20,10 @@ The Ancient Recipes API can be a fascinating project, combining historical infor
 
 ### Base Url
 
--  `[baseurl](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)`.
+-  `[baseurl](https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app/)`. <br/>
 https://ancient-recipes-nc8nbtyl4-motimiya08s-projects.vercel.app
-
-# GET /recipes?region=Ancient%20Egypt&ingredient=honey&limit=10&page=1
+ <br/>
+GET /recipes?region=Ancient%20Egypt&ingredient=honey&limit=10&page=1
 
 ```bash
 {
